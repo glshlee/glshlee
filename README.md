@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @glshlee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m SeungHoon Lee.
+I'm an engineer at Kakao Pay.
+I make a personal finance mangement software.
+
+Previously I worked at LG Electronics.
 
 <!---
 glshlee/glshlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
