@@ -1,7 +1,7 @@
 👋 Hi, I’m SeungHoon Lee.
 
 
-I'm an engineer at Kakao Pay. And I make a personal finance mangement software.
+I'm a software engineer at Kakao Pay. And I make personal finance management software.
 
 Previously I worked at LG Electronics.
 
